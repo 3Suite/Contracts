@@ -1,0 +1,4 @@
+{
+    "filter_paths": "node_modules|mock",
+    "detectors_to_exclude": "naming-convention,timestamp"
+}
